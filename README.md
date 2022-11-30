@@ -3,6 +3,7 @@
 Live demo available at: https://lyrics-discover-music.netlify.app/
 
 An elegant React.js Music Application built using React Redux, Shazam Core API from RapidAPI, Vite, and Tailwind CSS.
+
 Features Include:
 - Viewing the top charting songs and artists around the world or specific to your region.
 - The ability to filter songs by genre and view similar music related to your selection.
