@@ -89,3 +89,4 @@ To set up a development environment, please follow these steps:
     - API key obtained through https://rapidapi.com/apidojo/api/shazam
     - Restart the local server by closing it and running npm run dev in the terminal again.
   
+NOTE: If you are failing to load data on the Around You page, disabling any ad-blocker you have may fix the issue.
